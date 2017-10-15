@@ -8,7 +8,7 @@ The simplest way to install this package is using [npm](http://www.npmjs.com/):
 $ npm i error-reporter -S
 ```
 
-You can also manually download the [latest release](https://github.com/dnunes/???/zipball/master) from [our project page](http://dnunes.com/???/) or any release from [our GitHub repository](https://github.com/dnunes/???/) on the [releases page](https://github.com/dnunes/???/releases/).
+You can also manually download any release from [our GitHub repository](https://github.com/dnunes/error-reporter/) on the [releases page](https://github.com/dnunes/error-reporter/releases/) or try the [latest stable source](https://github.com/dnunes/error-reporter/zipball/master). The links and info are also available on [the project page](http://dnunes.com/error-reporter/).
 
 
 ## <a id="quickstart">Quick Start Guide</a>
