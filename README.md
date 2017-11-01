@@ -1,14 +1,14 @@
-error-reporter
-==============
+SimplErrorReporter
+==================
 ### Error Reporting made easy!
 
 ## <a id="installation">Installation</a>
 The simplest way to install this package is using [npm](http://www.npmjs.com/):
 ```bash
-$ npm i error-reporter -S
+$ npm i errorreporter -S
 ```
 
-You can also manually download any release from [our GitHub repository](https://github.com/dnunes/error-reporter/) on the [releases page](https://github.com/dnunes/error-reporter/releases/) or try the [latest stable source](https://github.com/dnunes/error-reporter/zipball/master). The links and info are also available on [the project page](http://dnunes.com/error-reporter/).
+You can also manually download any release from [our GitHub repository](https://github.com/dnunes/errorreporter/) on the [releases page](https://github.com/dnunes/errorreporter/releases/) or try the [latest stable source](https://github.com/dnunes/errorreporter/zipball/master). The links and info are also available on [the project page](http://dnunes.com/errorreporter/).
 
 
 ## <a id="quickstart">Quick Start Guide</a>

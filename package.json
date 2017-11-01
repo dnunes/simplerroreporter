@@ -1,12 +1,12 @@
 {
-  "name": "error-reporter",
+  "name": "simplerrorreporter",
   "private": true,
   "version": "0.0.1",
   "description": "Automatic error reporting with multiple engines done right.",
   "author": "Diego Nunes <work@dnunes.com> (http://dnunes.com)",
   "homepage": "https://github.com/dnunes/",
 
-  "main": "lib/ErrorReporter.js",
+  "main": "lib/SimplErrorReporter.js",
   "scripts": {
     "cover": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- -c",
     "test": "./node_modules/.bin/mocha -c"
