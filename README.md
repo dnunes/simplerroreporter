@@ -1,5 +1,5 @@
 SimplErroReporter
-==================
+=================
 ### Error Reporting made easy!
 
 ## <a id="installation">Installation</a>
@@ -15,8 +15,8 @@ You can also manually download any release from [our GitHub repository](https://
 
 There is just X steps needed to start using this package:
 
-1. X
-2. X
+1. Install;
+2. ???;
 3. PROFIT!
 
 

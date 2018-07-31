@@ -1,9 +1,8 @@
 {
   "name": "simplerroreporter",
-  "private": true,
   "version": "0.0.1",
-  "description": "Automatic error reporting with multiple engines done right.",
-  "author": "Diego Nunes <work@dnunes.com> (http://dnunes.com)",
+  "description": "The simplest error reporter around. No dependencies(?), straight to the point.",
+  "author": "diego nunes <work@dnunes.com> (http://dnunes.com)",
   "homepage": "https://github.com/dnunes/",
   "main": "lib/SimplErroReporter.js",
   "scripts": {
@@ -23,7 +22,5 @@
   ],
   "keywords": [],
   "devDependencies": {},
-  "dependencies": {
-    "bugsnag": "^1.9.0"
-  }
+  "dependencies": {"bugsnag": "^1.9.0"}
 }
