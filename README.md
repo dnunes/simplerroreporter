@@ -33,7 +33,3 @@ There is just X steps needed to start using this package:
 ## <a id="credits">Credits</a>
 
 Created and maintained (with much ♡) by [diego nunes](http://dnunes.com)
-
-Donations with Bitcoin to _1PQyeHqusUj3SuTmw6DPqWSHptVHkYZ33R_:
-
-![1PQyeHqusUj3SuTmw6DPqWSHptVHkYZ33R](http://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=bitcoin:1PQyeHqusUj3SuTmw6DPqWSHptVHkYZ33R)
